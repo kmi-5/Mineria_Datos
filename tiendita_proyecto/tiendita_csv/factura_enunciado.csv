@@ -1,0 +1,4 @@
+id_factura_enunciado,numero,fecha,id_condicion_iva,id_sucursal
+1,F0001-0000001,2025-08-10,1,1
+2,F0001-0000002,2025-08-11,2,2
+3,F0001-0000003,2025-08-11,3,1

@@ -1,0 +1,6 @@
+# requirementos para ejecutar el main
+
+# Instalar librerias:
+    pandas
+    psycopg2-binary
+    python-dotenv
