@@ -1,0 +1,9 @@
+
+[2025-10-16 01:06:10] clientes
+   - Agregado registro: {'id_cliente': 11, 'nombre': 'Camila', 'apellido': 'Cabral', 'email': 'camila.cabral@gmal.com', 'telefono': '11-5555-5555', 'id_localidad': 1, 'domicilio': 'Av. Falsa 134'}
+
+[2025-10-16 22:53:30] localidades
+   - Agregado registro: {'id_localidad': 8, 'nombre': 'Wilde', 'id_provincia': 1}
+
+[2025-10-19 12:11:21] productos
+   - Exportada tabla a JSON: productos.json

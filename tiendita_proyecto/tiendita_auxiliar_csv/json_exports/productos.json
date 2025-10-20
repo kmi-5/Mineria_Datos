@@ -1,0 +1,98 @@
+[
+  {
+    "id_producto":1,
+    "descripcion":"Televisor LED 50\"",
+    "precio":350000.0,
+    "id_proveedor":1,
+    "id_rubro":1,
+    "stock":15
+  },
+  {
+    "id_producto":2,
+    "descripcion":"Pantalon de Jean",
+    "precio":25000.0,
+    "id_proveedor":2,
+    "id_rubro":2,
+    "stock":50
+  },
+  {
+    "id_producto":3,
+    "descripcion":"Leche entera 1L",
+    "precio":1200.0,
+    "id_proveedor":3,
+    "id_rubro":3,
+    "stock":100
+  },
+  {
+    "id_producto":4,
+    "descripcion":"Sillon 3 cuerpos",
+    "precio":150000.0,
+    "id_proveedor":4,
+    "id_rubro":4,
+    "stock":8
+  },
+  {
+    "id_producto":5,
+    "descripcion":"Auriculares Bluetooth",
+    "precio":18000.0,
+    "id_proveedor":1,
+    "id_rubro":1,
+    "stock":30
+  },
+  {
+    "id_producto":6,
+    "descripcion":"Camisa manga larga",
+    "precio":18000.0,
+    "id_proveedor":2,
+    "id_rubro":2,
+    "stock":40
+  },
+  {
+    "id_producto":7,
+    "descripcion":"Queso cremoso 500g",
+    "precio":3500.0,
+    "id_proveedor":3,
+    "id_rubro":3,
+    "stock":60
+  },
+  {
+    "id_producto":8,
+    "descripcion":"Mesa de comedor",
+    "precio":220000.0,
+    "id_proveedor":4,
+    "id_rubro":4,
+    "stock":5
+  },
+  {
+    "id_producto":9,
+    "descripcion":"Smartphone 128GB",
+    "precio":420000.0,
+    "id_proveedor":1,
+    "id_rubro":1,
+    "stock":20
+  },
+  {
+    "id_producto":10,
+    "descripcion":"Pelota de Futbol",
+    "precio":15000.0,
+    "id_proveedor":5,
+    "id_rubro":5,
+    "stock":25
+  },
+  {
+    "id_producto":11,
+    "descripcion":"Zapatillas Running",
+    "precio":45000.0,
+    "id_proveedor":5,
+    "id_rubro":5,
+    "stock":30
+  },
+  {
+    "id_producto":12,
+    "descripcion":"Novela Best Seller",
+    "precio":8500.0,
+    "id_proveedor":2,
+    "id_rubro":6,
+    "stock":35
+  }
+]
