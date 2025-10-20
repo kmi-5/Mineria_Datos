@@ -14,34 +14,6 @@ Una herramienta que permite transformar, editar y administrar tablas CSV mediant
 - **Registro de cambios** con timestamp  
 - **Gestión segura** de credenciales  
 
-
-## Estructura del Proyecto
-
-tiendita_proyecto/
-├── main.py                      # Punto de entrada principal
-├── config/
-│   ├── **init**.py
-│   ├── database.py              # Configuración DB y rutas
-│   └── .env.example             # Plantilla de variables de entorno
-├── utils/
-│   ├── **init**.py
-│   ├── file_handlers.py         # Manejo de archivos CSV
-│   └── log_utils.py             # Sistema de registro de cambios
-├── services/
-│   ├── **init**.py
-│   ├── postgres_service.py      # Operaciones con PostgreSQL
-│   └── table_service.py         # Lógica de transformación
-├── menus/
-│   ├── **init**.py
-│   └── interactive_menu.py      # Interfaz de usuario interactiva
-├── tiendita_csv/                # Datos originales (solo lectura)
-├── tiendita_auxiliar_csv/       # Datos modificados (lectura/escritura)
-├── .env                         # Variables de entorno (local, no se sube a GitHub)
-├── .gitignore                   # Archivos excluidos de Git
-├── requirements.txt             # Dependencias del proyecto
-└── README.md                    # Documentación principal
-
-
 ## Objetivos Principales
 
 - Desarrollar un sistema interactivo para modificación de datos tabulares  
@@ -176,4 +148,5 @@ Copiá el archivo `.env.example`, renombralo como `.env` y completá tus datos d
 **Solución:** Verificar credenciales en `.env` y que el servicio esté corriendo.
 
 **Problema:** No se aplican los cambios
+
 **Solución:** Asegurarse de confirmar los cambios en el menú interactivo.
