@@ -1,0 +1,62 @@
+[
+  {
+    "nombre":"Juan",
+    "email":"juan.perez@gmail.com",
+    "telefono":"11-1111-1111",
+    "domicilio":"Av. Siempre Viva 123"
+  },
+  {
+    "nombre":"Maria",
+    "email":"maria.lopez@hotmail.com",
+    "telefono":"11-2222-2222",
+    "domicilio":"Calle Falsa 456"
+  },
+  {
+    "nombre":"Carlos",
+    "email":"carlos.gomez@yahoo.com",
+    "telefono":"11-3333-3333",
+    "domicilio":"San Martín 789"
+  },
+  {
+    "nombre":"Lucía",
+    "email":"lucia.fernandez@gmail.com",
+    "telefono":"11-4444-4444",
+    "domicilio":"Belgrano 1500"
+  },
+  {
+    "nombre":"Martín",
+    "email":"martin.rodriguez@outlook.com",
+    "telefono":"11-5555-5555",
+    "domicilio":"Av. Corrientes 345"
+  },
+  {
+    "nombre":"Ana",
+    "email":"ana.torres@gmail.com",
+    "telefono":"11-6666-6666",
+    "domicilio":"Rivadavia 789"
+  },
+  {
+    "nombre":"Federico",
+    "email":"federico.gomez@hotmail.com",
+    "telefono":"11-7777-7777",
+    "domicilio":"Mitre 234"
+  },
+  {
+    "nombre":"Sofía",
+    "email":"sofia.herrera@gmail.com",
+    "telefono":"11-8888-8888",
+    "domicilio":"Dorrego 456"
+  },
+  {
+    "nombre":"Diego",
+    "email":"diego.martinez@yahoo.com",
+    "telefono":"11-9999-9999",
+    "domicilio":"Av. Colón 123"
+  },
+  {
+    "nombre":"Laura",
+    "email":"laura.garcia@gmail.com",
+    "telefono":"11-1010-1010",
+    "domicilio":"San Lorenzo 567"
+  }
+]

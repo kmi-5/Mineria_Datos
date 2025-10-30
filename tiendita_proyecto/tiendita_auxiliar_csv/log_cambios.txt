@@ -1,0 +1,47 @@
+
+[2025-10-16 01:06:10] clientes
+   - Agregado registro: {'id_cliente': 11, 'nombre': 'Camila', 'apellido': 'Cabral', 'email': 'camila.cabral@gmal.com', 'telefono': '11-5555-5555', 'id_localidad': 1, 'domicilio': 'Av. Falsa 134'}
+
+[2025-10-16 22:53:30] localidades
+   - Agregado registro: {'id_localidad': 8, 'nombre': 'Wilde', 'id_provincia': 1}
+
+[2025-10-19 12:11:21] productos
+   - Exportada tabla a JSON: productos.json
+
+[2025-10-23 10:19:48] clientes
+   - Agregado registro: {'id_cliente': 11, 'nombre': 'Carlos', 'apellido': 'Lopez', 'email': 'mail@mail.com', 'telefono': '121356677', 'id_localidad': 3, 'domicilio': 'calle falsa'}
+
+[2025-10-23 10:23:35] clientes
+   - Modificada columna 'domicilio' con: 9
+   - Eliminada fila con índice 4: {'id_cliente': 5, 'nombre': 'Martín', 'apellido': 'Rodríguez', 'email': 'martin.rodriguez@outlook.com', 'telefono': '11-5555-5555', 'id_localidad': 1, 'domicilio': 9}
+
+[2025-10-23 10:33:12] clientes
+   - Exportada tabla a JSON: clientes.json
+
+[2025-10-29 20:25:55] localidades
+   - Agregado nuevo registro
+
+[2025-10-29 20:35:32] localidades
+   - Agregado nuevo registro
+
+[2025-10-29 20:36:42] provincias
+   - Agregado nuevo registro
+
+[2025-10-29 21:07:25] provincias
+   - Agregado nuevo registro
+
+[2025-10-29 22:08:56] provincias
+   - Agregado nuevo registro
+
+[2025-10-29 22:20:50] localidades
+   - Agregado nuevo registro
+
+[2025-10-30 10:42:49] clientes
+   - Agregado nuevo registro
+
+[2025-10-30 10:46:26] localidades
+   - Agregado nuevo registro
+
+[2025-10-30 11:33:42] clientes
+   - Agregado nuevo registro
+   - Agregada columna '9'

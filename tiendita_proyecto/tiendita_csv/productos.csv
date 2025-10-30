@@ -1,0 +1,13 @@
+id_producto,descripcion,precio,id_proveedor,id_rubro,stock
+1,"Televisor LED 50""",350000.00,1,1,15
+2,Pantalon de Jean,25000.00,2,2,50
+3,Leche entera 1L,1200.00,3,3,100
+4,Sillon 3 cuerpos,150000.00,4,4,8
+5,Auriculares Bluetooth,18000.00,1,1,30
+6,Camisa manga larga,18000.00,2,2,40
+7,Queso cremoso 500g,3500.00,3,3,60
+8,Mesa de comedor,220000.00,4,4,5
+9,Smartphone 128GB,420000.00,1,1,20
+10,Pelota de Futbol,15000.00,5,5,25
+11,Zapatillas Running,45000.00,5,5,30
+12,Novela Best Seller,8500.00,2,6,35
